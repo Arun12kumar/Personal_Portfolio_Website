@@ -1,0 +1,67 @@
+
+
+
+body{
+    background: linear-gradient(rgb(106, 189, 154) 80% ,rgb(243, 245, 244) 20% );
+   
+}
+
+#navigaterbar_col{
+    background-color: rgb(106, 189, 154) ;
+    /* border: 2px solid ; */
+    height: 70px;
+    padding: 20px;
+    
+ 
+}
+
+#navigaterbar_img{
+    width: 60px;
+}
+
+#a{
+    font-size: 40px;
+    text-decoration-line: none;
+    color: gold;
+
+}
+#b{
+    text-align: center;
+    text-decoration-line: none;
+    font-size: 18px;
+    font-weight: bolder;
+    color: #ffff;
+    
+    
+}
+
+#b:hover{
+    border-bottom: 3px solid red;
+    
+}
+
+
+#content{
+    
+    margin-top: 50px;
+}
+
+
+#content_img{
+    border-radius: 20px;
+}
+
+#partner{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+#a{
+    width: 60px;
+}
+
+#a:hover{
+    width: 66px ;
+}
+

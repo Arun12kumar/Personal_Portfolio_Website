@@ -1,0 +1,110 @@
+
+
+*{
+    text-transform: capitalize;
+}
+
+body{
+    background: linear-gradient( rgb(243, 245, 244) 70% ,rgb(106, 189, 154) 30%);
+   
+}
+
+
+
+#navigaterbar_col{
+    background-color: rgb(106, 189, 154) ;
+    /* border: 2px solid ; */
+    height: 70px;
+    padding: 20px;
+    
+ 
+}
+
+#navigaterbar_img{
+    width: 60px;
+}
+
+#a{
+    font-size: 40px;
+    text-decoration-line: none;
+    color: gold;
+
+}
+#b{
+    text-align: center;
+    text-decoration-line: none;
+    font-size: 18px;
+    font-weight: bolder;
+    color: #ffff;
+    
+    
+}
+
+#b:hover{
+    border-bottom: 3px solid red;
+    
+}
+
+#main{
+    background-color: rgb(76, 170, 131);
+    padding: 50px;
+
+}
+.col-1{
+    background-color: rgb(106, 189, 154);
+    height: 100px;
+    margin-bottom: 40px;
+    width: 400px;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: -1px 1px 10px #000;
+}
+
+.container-md{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    border: 2px solid rgb(51, 83, 70);
+    border-radius: 10px;
+    
+
+}
+
+span{
+    position: relative;
+    bottom:  50px;
+    left: 100px;
+    color: #fff;
+}
+#i:hover{
+    background-color: #fff;
+    border-radius: 15px;
+}
+
+.col-7{
+    
+    padding: 30px;
+}
+
+#your{
+    width: 280px;
+    height: 50px;
+}
+
+#email{
+    margin-left: 20px;
+    width: 280px;
+    height: 50px;
+}
+
+
+#sub{
+    margin-top: 30px;
+    height: 50px;
+    width: 500px;
+}
+
+button{
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 80px;
+}
